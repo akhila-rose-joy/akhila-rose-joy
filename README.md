@@ -1,15 +1,15 @@
 ## Hi there, I'm Akhila Rose Joy
 
-### Electronics & Communication Engineering Student (2026-2030 Batch)
-I'm a first-year student hoping to blend physical electronic hardware with software systems to make green technology products.
+### Electronics & Communication Engineering Student (2026-2030 Batch) at SASTRA University
+I'm a first-year student hoping to blend physical electronic hardware with software systems to make green technology products within these 4 years of college.
 
 ---
 
 ## My 1-Year Roadmap (Semester 1 Active)
-Semester 1: UI/UX (Figma) | HTML & CSS | C
-Winter Break: JavaScript
-Semester 2: C++ | Wokwi
-Summer Break: Python | SQL | NumPy & Pandas
+- Semester 1: UI/UX (Figma) | HTML & CSS | C
+- Winter Break: JavaScript
+- Semester 2: C++ | Wokwi
+- Summer Break: Python | SQL | NumPy & Pandas
 
 ---
 
