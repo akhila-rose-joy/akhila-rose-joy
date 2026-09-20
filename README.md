@@ -14,7 +14,7 @@ I'm a first-year student hoping to blend physical electronic hardware with softw
 ---
 
 ## 📂 Active Repositories
-* 📁 **[1st-sem-C-programming](https://github.com)** - C programming lab assignments.
+* 📁 **[1st-sem-C-programming](https://github.com/akhila-rose-joy/1st-sem-C-programming)** - C programming lab assignments.
 
 ---
 
