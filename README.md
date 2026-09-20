@@ -1,7 +1,7 @@
 ## Hi there, I'm Akhila Rose Joy
 
 ### Electronics & Communication Engineering Student (2026-2030 Batch) at SASTRA University
-I'm a first-year student hoping to blend physical electronic hardware with software systems to make green technology products within these 4 years of college.
+I'm a first-year student hoping to learn how to blend physical electronic hardware with software systems to make green technology products within these 4 years of college.
 
 ---
 
