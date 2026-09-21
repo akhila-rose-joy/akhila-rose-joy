@@ -15,6 +15,7 @@ I'm a first-year student hoping to learn how to blend physical electronic hardwa
 
 ## 📂 Active Repositories
 * 📁 **[1st-sem-C-programming](https://github.com/akhila-rose-joy/1st-sem-C-programming)** - C programming lab assignments.
+* * 📁 **[1st-sem-C-programming](https://github.com/akhila-rose-joy/figma-prototypes)** - UI UX basic designs.
 
 ---
 
