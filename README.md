@@ -5,11 +5,11 @@ I'm a first-year student hoping to learn how to blend physical electronic hardwa
 
 ---
 
-## My 1-Year Roadmap (Semester 1 Active)
+## My 1-Year Roadmap
 - Semester 1: UI/UX (Figma) | HTML & CSS | C
 - Winter Break: JavaScript | Arduino Starter kit 
 - Semester 2: C++ | Wokwi
-- Summer Break: Python | SQL | NumPy & Pandas | PCB design 
+- Summer Break: Python | SQL | NumPy & Pandas | Basic PCB design 
 
 ---
 
